@@ -12,5 +12,4 @@ func Random() int {
 
 func main() {
 	fmt.Println(Random())
-	fmt.Println(C.UPS_DEFAULT_USER)
 }
