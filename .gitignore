@@ -140,8 +140,6 @@ systemv/lpmove
 systemv/lpoptions
 systemv/lpstat
 systemv/reject
-templates/header.tmpl
-templates/*/header.tmpl
 test/cups-str-*.html
 test/*_log-*
 test/ippfind
