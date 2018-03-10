@@ -63,6 +63,7 @@ cups/testpwg
 cups/testraster
 cups/testsnmp
 cups/tlscheck
+doc/*/index.html
 desktop/cups.desktop
 filter/commandtops
 filter/gziptoany
